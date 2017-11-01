@@ -12,7 +12,7 @@ $ python3 send-http-request.py https://www.ziemers.de/fhtw/web/ms/ms1header1.htm
 
 Return:
 
-```bash
+```
 Target Site: https://www.ziemers.de/fhtw/web/ms/ms1header1.html
 ##############################
 #    http request content    #
@@ -57,7 +57,7 @@ $ https://www.ziemers.de/fhtw/web/ms/ms1header2.html SecretHeader MySecretHttpHe
 
 Return: 
 
-```bash
+```
 Target Site: https://www.ziemers.de/fhtw/web/ms/ms1header2.html
 ##############################
 #    http request content    #
